@@ -1,0 +1,16 @@
+{
+  "name": "cors-for-lambda",
+  "version": "1.0.0",
+  "description": "Apply CORS Headers for Lambda HTTP responses",
+  "main": "index.js",
+  "repository": "https://github.com/MWG-Digital/cors-for-lambda.git",
+  "author": "Israem Melicio - MWG Digital",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
