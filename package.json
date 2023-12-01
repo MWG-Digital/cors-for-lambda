@@ -1,6 +1,6 @@
 {
   "name": "cors-for-lambda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apply CORS Headers for Lambda HTTP responses",
   "main": "index.js",
   "repository": "https://github.com/MWG-Digital/cors-for-lambda.git",
