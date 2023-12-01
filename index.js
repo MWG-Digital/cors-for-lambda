@@ -8,6 +8,7 @@ module.exports.responseHeader = (...allowedOrigins) => {
   return {
     'Access-Control-Allow-Origin': origins,
     'Access-Control-Allow-Credentials': true,
+    'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
     'Content-Type': 'application/json'
   }
 }
